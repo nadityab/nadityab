@@ -2,8 +2,6 @@
 <h3 align="center">Passionately Full Stack Developer-in-Training</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadityab&label=Profile%20views&color=0e75b6&style=flat" alt="nadityab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadityab&theme=" alt="nadityab" /></a> </p>
-
 - 🔭 I’m currently undergraduate at **Muhammadiyah University of Malang**
 - 🌱 I’m currently learning **Flutter, JavaScript, and also Laravel**
 
@@ -52,9 +50,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/nadityab">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadityab&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadityab&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadityab&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadityab&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadityab&theme=2077" height="180em" />
 </div>

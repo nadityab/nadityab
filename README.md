@@ -1,5 +1,8 @@
-<h1 align="center">Welcome to my profile👋</h1>
+<h1 align="center">Welcome to my profile👋, I'm Nurrahman Aditya</h1>
+<h3 align="center">Passionately Full Stack Developer-in-Training</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadityab&label=Profile%20views&color=0e75b6&style=flat" alt="nadityab" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadityab&theme=" alt="nadityab" /></a> </p>
 
 - 🔭 I’m currently undergraduate at **Muhammadiyah University of Malang**
 - 🌱 I’m currently learning **Flutter, JavaScript, and also Laravel**
